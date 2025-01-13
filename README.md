@@ -33,4 +33,5 @@ Returns the formatted time in 24-hour format as a string.
 
 ### Example
 input:    Hours: 9:00 AM to 5:00 PM
+
 output:    9:00 to 17:00
